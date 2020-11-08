@@ -1,2 +1,0 @@
-D:\Defenders Of Electricity\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-D:\Defenders Of Electricity\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
